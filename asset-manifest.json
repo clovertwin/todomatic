@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todomatic/static/css/main.b3a18f3d.css",
+    "main.js": "/todomatic/static/js/main.f793c4b1.js",
+    "index.html": "/todomatic/index.html",
+    "main.b3a18f3d.css.map": "/todomatic/static/css/main.b3a18f3d.css.map",
+    "main.f793c4b1.js.map": "/todomatic/static/js/main.f793c4b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3a18f3d.css",
+    "static/js/main.f793c4b1.js"
+  ]
+}
